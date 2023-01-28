@@ -54,6 +54,7 @@ You can install packages directly into default conda environment or into the def
 - [Automating the Setup of SageMaker Studio Custom Images](https://towardsdatascience.com/automating-the-setup-of-sagemaker-studio-custom-images-4a3433fd7148)
 - [Activating a Conda environment in your Dockerfile](https://pythonspeed.com/articles/activate-conda-dockerfile/)
 - [Customize Amazon SageMaker Studio using Lifecycle Configurations](https://aws.amazon.com/blogs/machine-learning/customize-amazon-sagemaker-studio-using-lifecycle-configurations/)
+- [AWS Batch Architecture for RFDesign](https://github.com/aws-samples/aws-batch-architecture-for-rfdesign)
 
 ## QR code for this repository
 You can use the following QR code to link this [repository](https://github.com/aws-samples/amazon-sagemaker-studio-package-management).
