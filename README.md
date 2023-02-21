@@ -13,6 +13,11 @@ Conda doesn't work well within Docker container, for example see the blog post [
 
 Following sections give run down of each of four recommended package management options.
 
+## How to run the notebooks
+- `create-custom-app.ipynb`: run in a [SageMaker Notebook Instance](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi.html), not in Studio
+- `persistent-conda-environments-on-efs.ipynb`: run in Studio
+- `studio-notebook-lifecycle-configurations.ipynb`: run in Studio
+
 ### SageMaker custom app image
 A SageMaker image or app image is a Docker container that identifies the kernels, language packages, and other dependencies required to run a Jupyter notebook in Studio. You use these images to create environments that you then run Jupyter notebooks on. Amazon SageMaker provides many [built-in images](https://docs.aws.amazon.com/sagemaker/latest/dg/notebooks-available-images.html) for you to use. 
 
