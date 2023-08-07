@@ -1,5 +1,7 @@
 # How to manage Python packages in Amazon SageMaker Studio notebooks
-This repository presents hands-on samples for the recommended practices on how to manage Python packages and package versions in Amazon SageMaker Studio Notebooks.
+This repository presents hands-on samples for the recommended practices on how to manage Python packages and package versions in Amazon SageMaker Studio Notebooks. 
+
+For more details refer to the related blog post [Four approaches to manage Python packages in Amazon SageMaker Studio notebooks](https://aws.amazon.com/blogs/machine-learning/four-approaches-to-manage-python-packages-in-amazon-sagemaker-studio-notebooks/) on the AWS Machine Learning Blog.
 
 You have the following options for installing packages and creating virtual environments in Studio:
 1. Use a SageMaker custom app image
